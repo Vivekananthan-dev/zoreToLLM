@@ -95,7 +95,7 @@ import time
 
 for s in range(10,0,-1):
     print(s)
-   # time.sleep(1) # it will wait for 1 second before printing the next number   
+    time.sleep(1) # it will wait for 1 second before printing the next number   
 
 print("happy programming")
 # it will print the countdown from 10 to 0 with a delay of 1 second
